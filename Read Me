@@ -1,0 +1,33 @@
+/*
+	Author: Tarun Jain
+	Roll Number: MT2015120
+	Title: Assignment 2 Computer Graphics: 3D Model with Lighting
+*/
+==============================================================================================================================
+Code is divided into 4 Files Model.cpp, View.cpp, Controller.cpp, Header.h
+
+Model.cpp 
+View.cpp 
+Controller.cpp
+Header.h 
+(Third Party Library used to read file - RPLY Library)
+
+Code is heavily commented in order to read and understand it.
+All the functionality which were asked in the Question were successfully implemented in C++ using OpenGL.
+===================================================================================================================================
+Reference/Source : 
+Redbook, Internet, www.videotutorialsrock.com, Interactive Computer Graphics by Ed. Angel
+===================================================================================================================================
+Compile and Execution : 
+Just type 'make' in the terminal to everything.
+===================================================================================================================================
+===================================================================================================================================
+Input/Output:
+
+Press following keys on keyboard
+'i' - Zoom In
+'o' - Zoom Out
+
+Rotation of the model alongwith bounding box is done using trackball or mouse left click with drag.
+===================================================================================================================================
+
